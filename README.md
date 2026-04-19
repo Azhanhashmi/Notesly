@@ -61,6 +61,7 @@ npm run dev
 ```
 
 ## Deploy to Vercel
+Link To Vercel https://vercel.com/azhanhashmis-projects/notesly
 
 ```bash
 npm run build
