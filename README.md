@@ -1,5 +1,4 @@
-# Dynamic Content Builder
-
+# Notesly
 A premium, minimal drag-and-drop page builder built with React, dnd-kit, and Tailwind CSS.
 
 ## Features
